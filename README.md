@@ -1,2 +1,24 @@
 # portfolio-kominfo
 Dokumentasi proyek sistem manajemen informatika di Kominfo (CCTV, Maglock, Wall Display)
+# Sistem Manajemen Informatika – Kominfo Badung, Bali
+
+## Deskripsi Proyek
+Proyek pengembangan sistem manajemen infrastruktur IT di Kominfo Badung, Bali. Melibatkan instalasi perangkat keras dan integrasi software untuk:
+- CCTV
+- Maglock (Access Control)
+- Wall Display
+- Tata letak kabel dan server rack
+
+## Peran Saya
+- Analisis kebutuhan user bersama konsultan Kominfo
+- Desain layout hardware dan sistem jaringan
+- Instalasi dan konfigurasi perangkat
+- Dokumentasi teknis lapangan
+
+## Teknologi & Tools
+- Network design (manual & AutoCAD)
+- Mikrotik, NVR CCTV
+- Access control system (Maglock + Reader)
+- Display controller
+
+## Dokumentasi Proyek
