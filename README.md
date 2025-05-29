@@ -22,3 +22,6 @@ Proyek pengembangan sistem manajemen infrastruktur IT di Kominfo Badung, Bali. M
 - Display controller
 
 ## Dokumentasi Proyek
+FULL PROJECT KOMINFO https://drive.google.com/drive/folders/1SaafEZ3xOvqzxp8utL2GT0S3NT9RBW1w?usp=sharing
+LAN Tester https://drive.google.com/file/d/15KWDxoLzXB-pcRiv6e3PtlaRzN3ECrfh/view?usp=sharing
+FOTO DOKUMETASI https://drive.google.com/drive/folders/1rwpyiGfMuqhSA1rT6hCYvCv6v9OgFzmf?usp=sharing
